@@ -1,0 +1,3 @@
+[submodule "src/renderer/driver/raspberry_pi_pico"]
+	path = src/renderer/driver/raspberry_pi_pico
+	url = https://github.com/xiezhuojin/raspberry-pi-pico-ssd1306-spi-driver
